@@ -1,0 +1,22 @@
+package:
+  dependencies:
+    - arrays
+    - console
+    - effect
+    - integers
+    - maybe
+    - node-buffer
+    - node-fs
+    - node-path
+    - ordered-collections
+    - prelude
+    - spec
+    - strings
+    - stringutils
+    - tuples
+  name: advent-of-code
+workspace:
+  extra_packages: {}
+  package_set:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.13-20231201/packages.json
+    hash: sha256-F/5L7gf3bx+tRPvGh+39xoudS1DsWVmLexGBcQ7cDaE=
